@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReignProject</string>
+    <string name="delete_post">Delete</string>
+    <string name="back">Back</string>
+</resources>
